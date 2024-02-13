@@ -1,7 +1,7 @@
 # Horus-Crypter
 The First True 100% Fud Crypter
 https://t.me/Horus_Protector
-Features 
+Features: .............
 Bypass Scantime & Runtime 
 EXE To VBS 
 Strong Persistance (Even Afer Reboot) 
